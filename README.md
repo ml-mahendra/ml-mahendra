@@ -90,7 +90,7 @@
 
 ### 🤝 Let’s Connect!  
 
-em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and healthcare AI.</em>  
+Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and healthcare AI.</em>  
 
 <p align="center">
   <a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
