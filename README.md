@@ -93,6 +93,7 @@ An AI & Robotics enthusiast passionate about applying machine learning to solve 
 Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and healthcare AI.  
 
 
-<a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://discord.com/users/mahe29"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
