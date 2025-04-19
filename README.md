@@ -1,36 +1,47 @@
-## Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-I'm **Mahendra** 😃  
-🎓 Studied **Computer Science** at [REVA University](https://www.reva.edu.in), Bangalore  
-🎓 Currently pursuing my **Master's in AI and Robotics** at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom  
+### 👋 Hello, I'm Mahendra Nath Reddy  
+An AI & Robotics enthusiast passionate about applying machine learning to solve real-world problems across autonomous systems, healthcare, and robotics.
 
 ---
 
-## 👨‍💼 Communities & Leadership
+### 🔍 About Me  
+
+- 🎓 **MSc Artificial Intelligence & Robotics with Advanced Research** — *University of Hertfordshire (UK)*  
+- 💻 **B.Tech Computer Science & Engineering** — *REVA University (India)*  
+- 🏎️ **Localization Lead**, UH Racing Autonomous (UHRA)  
+- 🔐 **External Research Collaborator**, SPRITZ Security & Privacy Research Group, University of Padova, Italy *(Jan–Jun 2024)*  
+- 🖊 I write technical blogs on [**Medium**](https://medium.com/me/stories/public)  
+- 🧠 AI Researcher focused on Medical Imaging, Neuroscience, and Robotics
+
+---
+
+### 🚀 Ongoing Projects  
+
+- 🧪 **Medical Image Clustering** — *UH Data Science Club*  
+- 🛣️ **Localization for Autonomous Racing Cars** — *UH Racing Autonomous*  
+- 🌿 **Plant Disease Detection & Classification** using Deep Learning   
+
+---
+
+### 🏅 Awards & Achievements  
+
+- 🥈 **Honorary Award**, IEEE VTS Innovation Challenge 2020 – UAV Communications  
+- 🥉 **Go Herts Silver & Gold Awards** *(2024, 2025)*  
+- 🤖 **RoboCup 2024**, Netherlands – *Participant*  
+- 🚗 **BMW Summer School 2024**, Germany – *Participant*  
+
+---
+
+### 👥 Leadership  
 
 - 🎓 Student Ambassador, University of Hertfordshire (2023)
 - 👨‍🔬 Chair, IEEE Student Branch & VTS SBC, REVA University (2021)
 - 💡 Vice-Chair, ACM Student Chapter, REVA University (2021)
 - 🌐 Student Branch Associate, AISYWLC (2021)
-- 🛠 Secretary, IEEE VTS SBC, REVA University (2020)
+- 🛠 Secretary, IEEE VTS SBC, REVA University (2020)  
 
 ---
 
-## 🧠 About Me
-
-- 🚀 Currently working on:
-  1. **Medical Image Clustering**
-  2. **Localization & Mapping for Autonomous Racing Car**
-  3. **EEG Data Analysis with Raspberry Pi**
-
-- 🧠 Learning about **Neuroscience & Robotics**
-- 🖊 I write technical blogs on [Medium](https://medium.com/@ml.mahendranath)
-- 🤝 Open to collaborations in **Machine Learning** and **AI**
-- 💬 Reach out for discussions on ML, AI, Robotics, or Research!
-
----
-
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -60,27 +71,11 @@ I'm **Mahendra** 😃
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+</p>  
 
 ---
 
-## 💬 Let's Talk About
-
-**Python** · **Machine Learning** · **Deep Learning** · **Computer Vision**  
-**Robotics** · **Mathematics** · **Computational Neuroscience** · **NLP**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-brown">
-  <img src="https://img.shields.io/badge/Machine Learning-green">
-  <img src="https://img.shields.io/badge/Deep Learning-red">
-  <img src="https://img.shields.io/badge/Computer Vision-magenta">
-  <img src="https://img.shields.io/badge/NLP-yellow">
-  <img src="https://img.shields.io/badge/Reinforcement Learning-blue">
-</p>
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ml-mahendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
@@ -90,9 +85,13 @@ I'm **Mahendra** 😃
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml-mahendra&theme=dark&hide_border=false&layout=compact" />
 </p>
 
+
 ---
 
-## 🤝 Connect with Me
+### 🤝 Let’s Connect!  
+
+Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and healthcare AI.  
+
 
 <a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
