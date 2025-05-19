@@ -27,7 +27,7 @@
 - 🥈 **Honorary Award**, IEEE VTS Innovation Challenge – UAV Communications *(2020)*  
 - 🥉 **Go Herts Silver & Gold Awards** *(2024, 2025)*  
 - 🤖 **RoboCup 2024**, Netherlands – *Participant*  
-- 🚗 **BMW Summer School 2024**, Germany – *Participant*  
+- 🚗 **BMW Summer School 2024**, Germany – *Selected Participant*  
 
 ---
 
