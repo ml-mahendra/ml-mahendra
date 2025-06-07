@@ -15,8 +15,7 @@
 ---
 
 ### 🚀 Ongoing Projects  
-
-- 🧪 **Medical Image Clustering** — *UH Data Science Club*  
+  
 - 🛣️ **Localization for Autonomous Racing Cars** — *UH Racing Autonomous* 
 - 🌿 **Plant Disease Detection & Classification** using Deep Learning   
 
