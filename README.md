@@ -1,16 +1,20 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#4F46E5;">Mahendra Nath Reddy</span></h1>
-<p align="center"><em>An AI & Robotics enthusiast passionate about applying machine learning to real-world problems in autonomous systems, healthcare, and robotics.</em></p>
+<!--
+
+<h1 align="center">👋 Hello, I'm <span style="color:#4F46E5;">Mahendra Nath Reddy</span></h1> 
+<p align="center"><em>An AI & Robotics enthusiast passionate about applying machine learning to real-world problems in autonomous systems, healthcare, and robotics.</em></p> 
+
 
 ---
 
 ### 🔍 About Me  
 
-- 🎓 **MSc Artificial Intelligence & Robotics with Advanced Research** — *University of Hertfordshire (UK)*  
+- I am a researcher and engineer specialising in medical AI and robotics, completing my MSc at the University of Hertfordshire. My primary focus is on developing systems that integrate AI & Deep learning-based image analysis with robotic control for applications in diagnostics and computer-assisted surgery.
+ - 🎓 **MSc Artificial Intelligence & Robotics with Advanced Research** — *University of Hertfordshire (UK)*  
 - 💻 **B.Tech Computer Science & Engineering** — *REVA University (India)*
 - 🏎️ **Localization Lead** @ *UH Racing Autonomous (UHRA)*  
 - 🔐 **External Research Collaborator** @ *SPRITZ Security & Privacy Research Group, University of Padova, Italy (Jan–Jun 2024)*  
-- 🖊 I write on [**Medium**](https://medium.com/me/stories/public) about AI & ML, Robotics, Neuroscience, and Research  
-- 🧠 AI Researcher focused on **Medical Imaging**, **Neuroscience**, and **Robotics**
+- 🖊 I write on [**Medium**](https://medium.com/me/stories/public) about AI & ML, Robotics, and Research  
+- 🧠 AI Researcher focused on **Medical Imaging**,and **Medical Robotics**
 
 ---
 
@@ -82,7 +86,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ml-mahendra&theme=dark&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml-mahendra&theme=dark&hide_border=false&layout=compact" />
-</p>
+
 
 
 ---
@@ -96,5 +100,31 @@
   <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" /></a>
   <a href="https://discord.com/users/mahe29"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+</p> -->
+
+
+<h1 align="center">Mahendra Nath Reddy E</h1> 
+<p align="center"><em>MSc in AI & Robotics. Developing novel systems at the intersection of medical imaging and surgical robotics to improve diagnostic and interventional procedures.</em></p>
+
+---
+
+I am a researcher and engineer specialising in medical AI and robotics, completing my MSc at the University of Hertfordshire. My primary focus is on developing systems that integrate AI & Deep learning-based image analysis with robotic control for applications in diagnostics and computer-assisted surgery.
+
+My core project is the **[Vision-Guided Robotic Biopsy Simulation](https://github.com/ml-mahendra/vision-guided-robotic-biopsy-simulation)**, which uses histopathological priors to guide a simulated robotic arm.
+
+### Core Competencies
+
+*   **Languages:** Python, C++, Bash
+*   **Frameworks & Libraries:** Tensorflow, PyTorch, ROS2, OpenCV, MONAI, NumPy, Scikit-learn
+*   **Tools & Platforms:** Git, Docker, Webots/Gazebo, 3D Slicer, Linux
+
+---
+<p align="center"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI.</em></p>
+
+<p align="center">
+  <a href="https://mahendranath.in/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge"/></a>
+  <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
 </p>
+
 
