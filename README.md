@@ -119,7 +119,7 @@ My core project is the **[Vision-Guided Robotic Biopsy Simulation](https://githu
 *   **Tools & Platforms:** Git, Docker, Webots/Gazebo, Linux
 
 ---
-<p align="centre"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI... </em></p>
+<p align="center"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI... </em></p>
 
 <p align="center">
   <a href="https://mahendranath.in/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge"/></a>
