@@ -115,11 +115,11 @@ My core project is the **[Vision-Guided Robotic Biopsy Simulation](https://githu
 ### Core Competencies
 
 *   **Languages:** Python, C++, Bash
-*   **Frameworks & Libraries:** Tensorflow, PyTorch, ROS2, OpenCV, MONAI, NumPy, Scikit-learn
-*   **Tools & Platforms:** Git, Docker, Webots/Gazebo, 3D Slicer, Linux
+*   **Frameworks & Libraries:** Tensorflow, PyTorch, ROS2, OpenCV, MONAI, NumPy, Pandas, Scikit-learn
+*   **Tools & Platforms:** Git, Docker, Webots/Gazebo, Linux
 
 ---
-<p align="center"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI.</em></p>
+<p align="centre"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI... </em></p>
 
 <p align="center">
   <a href="https://mahendranath.in/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge"/></a>
