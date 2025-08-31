@@ -102,23 +102,48 @@
   <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
 </p> -->
 
-
-<h1 align="center">Mahendra Nath Reddy E</h1> 
-<p align="center"><em>MSc in AI & Robotics. Developing novel systems at the intersection of medical imaging and surgical robotics to improve diagnostic and interventional procedures.</em></p>
-
----
-
-I am a researcher and engineer specialising in medical AI and robotics, completing my MSc at the University of Hertfordshire. My primary focus is on developing systems that integrate AI & Deep learning-based image analysis with robotic control for applications in diagnostics and computer-assisted surgery.
-
-My core project is the **[Vision-Guided Robotic Biopsy Simulation](https://github.com/ml-mahendra/vision-guided-robotic-biopsy-simulation)**, which uses histopathological priors to guide a simulated robotic arm.
-
+<!-- 
 ### Core Competencies
 
 *   **Languages:** Python, C++, Bash
 *   **Frameworks & Libraries:** Tensorflow, PyTorch, ROS2, OpenCV, MONAI, NumPy, Pandas, Scikit-learn
 *   **Tools & Platforms:** Git, Docker, Webots/Gazebo, Linux
 
+To see a detailed breakdown of my projects and research, please visit my **[personal website](https://mahendranath.in)**.
+
+-->
+
+<h1 align="center">Mahendra Nath Reddy E</h1> 
+<p align="center"><em>AI Researcher | Deep Learning for Medical Image Analysis</em></p>
+
 ---
+
+I am an independent researcher with a Master’s in Artificial Intelligence & Robotics from the University of Hertfordshire. I explore how machine learning can address complex challenges in medicine. My focus is on medical image analysis for diagnostics and computer-assisted surgery, leveraging deep learning to develop tools that aid and enhance clinical procedures.
+
+My current project is Investigating domain generalisation in nuclei segmentation for computational pathology [[Repo](https://github.com/ml-mahendra/medical-Image-Segmentation-dspc)].
+
+---
+
+### Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webots-4B9CD3?style=for-the-badge&logo=webots&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
 <p align="center"><em>Always open to exciting projects, research collaborations, or discussions on machine learning, robotics, and Medical AI... </em></p>
 
 <p align="center">
@@ -126,5 +151,4 @@ My core project is the **[Vision-Guided Robotic Biopsy Simulation](https://githu
   <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
 </p>
-
 
