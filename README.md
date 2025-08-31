@@ -124,7 +124,7 @@ My current project is Investigating domain generalisation in nuclei segmentation
 
 ---
 
-### Tech Stack & Tools
+<h3 align="center">Tech Stack & Tools</h3> 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
