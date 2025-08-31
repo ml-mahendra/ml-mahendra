@@ -118,7 +118,7 @@ To see a detailed breakdown of my projects and research, please visit my **[pers
 
 ---
 
-I am an independent researcher with a Master’s in Artificial Intelligence & Robotics from the University of Hertfordshire. I explore how machine learning can address complex challenges in medicine. My focus is on medical image analysis for diagnostics and computer-assisted surgery, leveraging deep learning to develop tools that aid and enhance clinical procedures.
+I am an independent AI researcher with a Master’s in Artificial Intelligence & Robotics from the University of Hertfordshire. I specialise in medical image analysis and explore how machine learning can tackle complex challenges in medicine. My work leverages deep learning to build tools that enhance diagnostics, clinical procedures and support computer-assisted surgical procedures.
 
 My current project is Investigating domain generalisation in nuclei segmentation for computational pathology [[Repo](https://github.com/ml-mahendra/medical-Image-Segmentation-dspc)].
 
