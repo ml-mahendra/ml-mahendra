@@ -146,10 +146,10 @@ For current project I am conducting an **[Empirical Study on Domain Generalizati
 -->
 <h3 align="center">Core Technical Skills</h3>
 
-- **Languages:** Python, C++, Bash  
+- **Languages:** Python, C++, Java  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, NumPy, Pandas, Streamlit
 - **Medical Imaging:** MONAI, SimpleITK
-- **Tools & Platforms:** Git, Docker, Webots, ROS2  
+- **Tools & Platforms:** Git, Docker, Webots, ROS2, Jupyter
 
 ---
 
