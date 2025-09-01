@@ -117,13 +117,15 @@ To see a detailed breakdown of my projects and research, please visit my **[pers
 <p align="center"><em>AI Researcher | Deep Learning for Medical Image Analysis</em></p>
 
 ---
+<!--
+I am an independent AI researcher with a Master’s in Artificial Intelligence & Robotics from the University of Hertfordshire. I specialise in medical image analysis and explore how machine learning can tackle complex challenges in medicine. My work leverages deep learning to build tools that enhance diagnostics, clinical procedures and support computer-assisted surgical procedures. -->
 
-I am an independent AI researcher with a Master’s in Artificial Intelligence & Robotics from the University of Hertfordshire. I specialise in medical image analysis and explore how machine learning can tackle complex challenges in medicine. My work leverages deep learning to build tools that enhance diagnostics, clinical procedures and support computer-assisted surgical procedures.
+I am a researcher with a Master's in AI & Robotics, dedicated to building and validating artificial intelligence systems that solve critical challenges in clinical medicine. My focus is on leveraging medical image analysis to create robust, reliable tools that enhance and support the diagnostic process.
 
-My current project is Investigating domain generalisation in nuclei segmentation for computational pathology [[Repo](https://github.com/ml-mahendra/medical-Image-Segmentation-dspc)].
+For current project I am conducting an **[Empirical Study on Domain Generalization in Computational Pathology](https://github.com/ml-mahendra/medical-Image-Segmentation-dspc)**  to investigate the fundamental barriers to creating universally applicable diagnostic AI.
 
 ---
-
+<!--
 <h3 align="center">Tech Stack & Tools</h3> 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -141,6 +143,13 @@ My current project is Investigating domain generalisation in nuclei segmentation
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+-->
+<h3 align="center">Core Technical Skills</h3>
+
+- **Languages:** Python, C++, Bash  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, NumPy, Pandas, Streamlit
+- **Medical Imaging:** MONAI, SimpleITK
+- **Tools & Platforms:** Git, Docker, Webots, ROS2  
 
 ---
 
