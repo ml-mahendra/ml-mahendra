@@ -122,7 +122,8 @@ I am an independent AI researcher with a Master’s in Artificial Intelligence &
 
 I am a researcher with a Master's in AI & Robotics, dedicated to building and validating artificial intelligence systems that solve critical challenges in clinical medicine. My focus is on leveraging medical image analysis to create robust, reliable tools that enhance and support the diagnostic process.
 
-For current project I am conducting an **[Empirical Study on Domain Generalization in Computational Pathology](https://github.com/ml-mahendra/Study-on-Nuclei-Segmentation)**  to investigate the fundamental barriers to creating universally applicable diagnostic AI.
+For current project I am conducting an **[Empirical Study on Domain Generalization in Computational Pathology](https://github.com/ml-mahendra/Study-on-Nuclei-Segmentation)** to investigate the fundamental barriers to creating universally applicable diagnostic AI.
+
 ---
 <!--
 <h3 align="center">Tech Stack & Tools</h3> 
